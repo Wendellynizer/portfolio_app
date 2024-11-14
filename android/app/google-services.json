@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "948355163106",
+    "project_id": "portfolioapp-aa6fc",
+    "storage_bucket": "portfolioapp-aa6fc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948355163106:android:0d1c50aa328a8793134fbb",
+        "android_client_info": {
+          "package_name": "com.example.portfolio_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948355163106-igs9u72vug7v8vivasvk55baknjs9e8q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFwfBQ1z_PsWUls94dYXHhDEgCCGE5a6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948355163106-igs9u72vug7v8vivasvk55baknjs9e8q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "948355163106-3nn64ekhqdpume408ma1dkk2e4fmj5jv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.portfolioApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
